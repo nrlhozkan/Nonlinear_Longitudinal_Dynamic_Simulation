@@ -6,7 +6,7 @@ function States = EOM_Long(t, X)
     S = 0.55; % Reference area in m^2
     rho = 1.225; % Air density in kg/m^3
     c = 0.19; % Mean aerodynamic chord in m
-    T_max = 0.5*g * m; % Maximum thrust in N ######
+    T_max = 0.2*g * m; % Maximum thrust in N ######
     delta_t = 0.5;
 
     %% Aerodynamic Coefficients
