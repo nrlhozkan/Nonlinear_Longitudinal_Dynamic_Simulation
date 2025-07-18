@@ -36,7 +36,8 @@ Reference Courses:
    - **AE 372 - Flight Mechanics** (Prof. Ilkay Yavrucuk): [Go to Course](https://www.youtube.com/playlist?list=PLuiPz6iU5SQ-vPNTm_j0Jr4f9AWzCyoXk)
 
    - **MAE 175 - Flight Dynamics** (Prof Haithem Ezzat): [Go to Course](https://www.youtube.com/playlist?list=PLCheZLRn7G_yXDL3b4zCF5GLbH59q7-CN) 
----
+
+   - **AE 514 - Undergraduate Flight Dynamics and Control**: [Go to Course](https://www.youtube.com/@AE-zc5sc/videos)
 
 ## 📚 Background: 6-DOF vs. Longitudinal-Only
 
