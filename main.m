@@ -12,7 +12,7 @@ x_0 = 0; % Initial x position in m
 z_0 = 500; % Initial y position in m
 
 %% Time Span
-tspan = [0 300]; %Time span for the simulation in seconds
+tspan = [0 250]; %Time span for the simulation in seconds
 
 [t, States] = ode45(@EOM_Long, tspan, [u_0; w_0; theta_0_rad; q_0; x_0; z_0]);
 
