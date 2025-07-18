@@ -185,7 +185,7 @@ These plots illustrate the **phugoid** and **short-period** modes: a slow altitu
 ## ✈️ Usage
 
 ```bash
-git clone https://github.com/yourusername/longitudinal-dynamics.git
+git clone https://github.com/nrlhozkan/Nonlinear_Longitudinal_Dynamic_Simulation_of_UAV.git
 cd longitudinal-dynamics
 ```
 
