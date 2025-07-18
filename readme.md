@@ -32,6 +32,10 @@ This MATLAB repository simulates and analyzes **longitudinal** (pitch-plane) dyn
 
 All aerodynamic parameters are sourced from *Kristiansen, M., Small Unmanned Aircraft: Theory and Practice* (Section E.2, Aerosonde UAV).
 
+Reference Courses:
+   - **AE 372 - Flight Mechanics** (Prof. Ilkay Yavrucuk): [Go to Course](https://www.youtube.com/playlist?list=PLuiPz6iU5SQ-vPNTm_j0Jr4f9AWzCyoXk)
+
+   - **MAE 175 - Flight Dynamics** (Prof Haithem Ezzat): [Go to Course](https://www.youtube.com/playlist?list=PLCheZLRn7G_yXDL3b4zCF5GLbH59q7-CN) 
 ---
 
 ## 📚 Background: 6-DOF vs. Longitudinal-Only
